@@ -29,7 +29,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://static1.squarespace.com/static/6322850b2767985272024161/t/633a388662de9047959363c1/1664759942080/GranataBio_rgb_300.png
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
